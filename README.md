@@ -34,8 +34,7 @@ A specialized web application designed for Ethiopian students to facilitate unin
 ### 📫 How to reach me: 
 Email: becoming.a.dev7@gmail.com
 
-### 😄 Pronouns:
-BRO
+
 <!--
 **BecomingABetterDev/BecomingABetterDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
