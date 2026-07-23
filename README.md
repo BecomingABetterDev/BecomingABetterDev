@@ -1,3 +1,4 @@
+```
 # Hi, I'm Eyob 👋
 
 I am a Frontend Developer and Product Thinker dedicated to turning code into polished, production-ready applications. I don't just build systems that work—I design intuitive, high-fidelity user experiences that solve real-world problems. 
